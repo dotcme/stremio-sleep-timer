@@ -5,7 +5,7 @@
 **Sleep Timer** is a quality-of-life plugin for [Stremio Enhanced](https://github.com/REVENGE977/stremio-enhanced/).  
 It automatically detects playback inactivity to prevent infinite binge-playing if you fall asleep, saving your watch history accuracy and internet bandwidth.
 ---
-
+![Preview of the plugin](https://i.imgur.com/dD4KnS5.png)
 ### 📥 Installation 
 You have **two ways** to install the Sleep Timer plugin:
 #### 1. Via Stremio Enhanced Marketplace (Recommended)
